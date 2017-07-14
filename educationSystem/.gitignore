@@ -9,3 +9,14 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 .env
+
+
+# Laravel 5 & Lumen specific
+bootstrap/cache/
+.env.*.php
+.env.php
+.env
+
+/database
+/storage/debugbar
+/storage/logs
